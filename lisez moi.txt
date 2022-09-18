@@ -1,0 +1,2 @@
+Le dossier "SaveCalcScript" est à mettre dans le dossier www de wamp
+sauvcalcul.sql est le script de la bdd
